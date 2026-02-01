@@ -1,0 +1,1 @@
+"""CivicDuty Backend Application."""
